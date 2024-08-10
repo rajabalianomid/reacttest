@@ -1,0 +1,15 @@
+/.vs/*
+/client-app/node_modules/*
+/API/bin/*
+/API/obj/*
+/Application/bin/*
+/Application/obj/*
+/Domain/bin/*
+/Domain/obj/*
+/Infrastructure/bin/*
+/Infrastructure/obj/*
+/Persistence/bin/*
+/Persistence/obj/*
+
+
+
